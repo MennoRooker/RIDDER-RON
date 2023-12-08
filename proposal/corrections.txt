@@ -1,0 +1,17 @@
+doelgroep
+battle scene (swords and sandals)
+moodboard
+interact
+save data
+cinemachine
+opengameart link (list)
+
+idee:
+if range == 3:
+    max dmg
+elif range == 2:
+    70% dmg
+elif range == 1:
+    50% dmg
+else:
+    no dmg
